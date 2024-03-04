@@ -57,7 +57,5 @@ There are total 4 Test Cases
 
 ## Author
 
-- Pushkar Kumar(2304095)
-- Alla Teja Sri(2303781)
-- Afsha Sultana (2304081)
-- Surya Vamsi (2304079)
+- Surya Vamsi Chappidi (2304079)
+- Afsha Sultana (2304080)
