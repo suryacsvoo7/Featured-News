@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-15T12:21:28 IST" name="Suite" finished-at="2024-02-15T12:24:00 IST" duration-ms="152322">
+    <groups>
+    </groups>
+    <test started-at="2024-02-15T12:21:28 IST" name="Test" finished-at="2024-02-15T12:24:00 IST" duration-ms="152322">
+      <class name="com.cognizant.test.TestCases">
+        <test-method is-config="true" signature="Driversetup()[pri:0, instance:com.cognizant.test.TestCases@3de8f619]" started-at="2024-02-15T12:21:28 IST" name="Driversetup" finished-at="2024-02-15T12:22:29 IST" duration-ms="61666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driversetup -->
+        <test-method signature="Test1()[pri:0, instance:com.cognizant.test.TestCases@3de8f619]" started-at="2024-02-15T12:22:30 IST" name="Test1" finished-at="2024-02-15T12:22:30 IST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:com.cognizant.test.TestCases@3de8f619]" started-at="2024-02-15T12:22:30 IST" name="Test2" finished-at="2024-02-15T12:22:33 IST" duration-ms="2700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:com.cognizant.test.TestCases@3de8f619]" started-at="2024-02-15T12:22:33 IST" name="Test3" finished-at="2024-02-15T12:23:58 IST" duration-ms="84386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="Test4()[pri:0, instance:com.cognizant.test.TestCases@3de8f619]" started-at="2024-02-15T12:23:58 IST" name="Test4" finished-at="2024-02-15T12:24:00 IST" duration-ms="2485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- com.cognizant.test.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
